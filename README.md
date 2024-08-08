@@ -402,16 +402,16 @@ Table 2, a compelling *pattern* emerges, one that leads directly to
 **Remark:** These patterns are so fascinating that their formalization
 is inevitable!
 
-![](vertopal_fb236398388149eca822b17d1e360d5d/media/image3.emf){width="6.5in"
+![](vertopal_fb236398388149eca822b17d1e360d5d/media/image3.jpeg){width="6.5in"
 height="3.486609798775153in"}
 
 **LEGEND**
 
-![](vertopal_fb236398388149eca822b17d1e360d5d/media/image4.emf){width="1.042361111111111in"
+![](vertopal_fb236398388149eca822b17d1e360d5d/media/image4.jpeg){width="1.042361111111111in"
 height="0.6604166666666667in"}
 
-![](vertopal_fb236398388149eca822b17d1e360d5d/media/image5.emf){width="6.5in"
+![](vertopal_fb236398388149eca822b17d1e360d5d/media/image5.jpeg){width="6.5in"
 height="3.4918722659667543in"}
 
-![](vertopal_fb236398388149eca822b17d1e360d5d/media/image6.emf){width="6.5in"
+![](vertopal_fb236398388149eca822b17d1e360d5d/media/image6.jpeg){width="6.5in"
 height="3.486609798775153in"}
