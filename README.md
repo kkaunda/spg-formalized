@@ -16,8 +16,8 @@ KAJANI KAUNDA
 This is a standard Markdown paragraph. Below are buttons styled using inline HTML and CSS.
 
 <div style="margin-top: 20px;">
-    <a href="https://www.example.com" style="background-color: #4CAF50; border: none; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 12px;">
-        Button 1
+    <a href="https://www.example.com" style="background-color: #4CAF50; border: none; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 12px;"
+        Button 1  <button onclick="alert('Blueprint')">Blueprint</button> >
     </a>
     <a href="https://www.example.com" style="background-color: #008CBA; border: none; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 12px;">
         Button 2
