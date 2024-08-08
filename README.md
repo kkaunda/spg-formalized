@@ -14,7 +14,6 @@ Here is some standard Markdown content.
 
 <div style="border: 1px solid black; padding: 10px;">
     This is an HTML block inside a Markdown file.
-</div>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -124,6 +123,8 @@ Here is some standard Markdown content.
 
 </body>
 </html>
+</div>
+
 
 
 
