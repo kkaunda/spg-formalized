@@ -8,6 +8,15 @@ usemathjax: true
 
 {% include mathjax.html %}
 
+# My Markdown with HTML
+
+Here is some standard Markdown content.
+
+<div style="border: 1px solid black; padding: 10px;">
+    This is an HTML block inside a Markdown file.
+</div>
+
+
 STRUCTURE IN PRIME GAPS - FORMALIZED
 
 PROJECT PROPOSAL & BLUEPRINT
