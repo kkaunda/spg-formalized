@@ -11,6 +11,16 @@ https://leanprover.zulipchat.com/
 prepared by\
 KAJANI KAUNDA
 
+# My Markdown Page
+
+This is a Markdown paragraph. Below is an HTML button styled with CSS.
+
+<div style="text-align: center; margin: 20px 0;">
+    <a href="https://www.example.com" style="background-color: #4CAF50; border: none; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 12px;">
+        Visit Example
+    </a>
+</div>
+
 # 
 
 **Proposed Channel Name: SPG-Formalized (SPG-F)**
