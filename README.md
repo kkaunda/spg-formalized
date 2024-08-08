@@ -28,7 +28,9 @@ Here is an example of a subscript: H<sub>2</sub>O.
 
 Here is an example of a superscript: E = mc<sup>2</sup>.
 
+Here is an example of a superscript: E = p<sup>α</sup>.
 
+Here is an example of a superscript: E = p<sup>n+1</sup>.
 
 
 
