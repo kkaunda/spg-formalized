@@ -28,8 +28,8 @@ This is a standard Markdown paragraph. Below are buttons styled using inline HTM
             font-size: 16px;
             cursor: pointer;
             transition: background-color 0.3s;
-"
-        Button 1  <button onclick="alert('Blueprint')">Blueprint</button> >
+">
+        Button 1  
     </a>
     <a href="https://www.example.com" style="background-color: #008CBA; border: none; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 12px;">
         Button 2
