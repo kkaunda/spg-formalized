@@ -24,6 +24,9 @@ KAJANI KAUNDA
 ###### [*Structure in Prime Gaps*](https://www.researchsquare.com/article/rs-4058806/latest)
 
 
+Here is an example of a subscript: H<sub>2</sub>O.
+
+Here is an example of a superscript: E = mc<sup>2</sup>.
 
 
 
