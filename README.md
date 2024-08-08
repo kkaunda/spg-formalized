@@ -30,8 +30,11 @@ Here is an example of a superscript: E = mc<sup>2</sup>.
 
 Here is an example of a superscript: E = p<sup>α</sup>.
 
-Here is an example of a superscript: E = p<sup>n+1</sup>.
+# Here is an example of a superscript: E = p<sup>n+1</sup>.
 
+## Here is an example of a superscript: E = p<sub>n+1</sub>.
+
+# Here is an example of a superscript: E = p<sub>n+1</sub>.
 
 
 # Welcome to My Markdown Page
