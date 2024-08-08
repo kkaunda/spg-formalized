@@ -11,14 +11,23 @@ https://leanprover.zulipchat.com/
 prepared by\
 KAJANI KAUNDA
 
-# [*Structure in Prime
-Gaps*](https://www.researchsquare.com/article/rs-4058806/latest)
+# [*Structure in Prime Gaps*](https://www.researchsquare.com/article/rs-4058806/latest)
 
-## [*Structure in Prime
-Gaps*](https://www.researchsquare.com/article/rs-4058806/latest)
+## [*Structure in Prime Gaps*](https://www.researchsquare.com/article/rs-4058806/latest)
 
-### [*Structure in Prime
-Gaps*](https://www.researchsquare.com/article/rs-4058806/latest)
+### [*Structure in Prime Gaps*](https://www.researchsquare.com/article/rs-4058806/latest)
+
+#### [*Structure in Prime Gaps*](https://www.researchsquare.com/article/rs-4058806/latest)
+
+##### [*Structure in Prime Gaps*](https://www.researchsquare.com/article/rs-4058806/latest)
+
+###### [*Structure in Prime Gaps*](https://www.researchsquare.com/article/rs-4058806/latest)
+
+
+
+
+
+
 
 # Welcome to My Markdown Page
 
