@@ -1,3 +1,4 @@
+---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
@@ -6,6 +7,7 @@ usemathjax: true
 ---
 
 {% include mathjax.html %}
+
 # Lean 4 Project Template
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-lightblue.svg)](https://opensource.org/licenses/Apache-2.0)
